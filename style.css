@@ -26,6 +26,12 @@ input {
     min-width: 300px;
 }
 
+input:hover {
+    background-color: #2b2828;
+    cursor: pointer;
+    color: white;
+}
+
 input:focus {
     outline: none;
 }
